@@ -2,4 +2,4 @@ applications:
 - name: dacs2017node
   command: node ./bin/www
   services:
-  	
+  	ClearDB Managed MySQL Database-k4

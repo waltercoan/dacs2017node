@@ -1,5 +1,3 @@
 applications:
 - name: dacs2017node
   command: node ./bin/www
-  services:
-   - MySQLDatabase-k4

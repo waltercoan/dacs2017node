@@ -1,10 +1,10 @@
 var mysql = require('mysql');
 function dbcomm(){
 	var connection = mysql.createConnection({
-	  host     : 'localhost',
-	  user     : 'bob',
-	  password : 'bob',
-	  database : 'nodedacs2017'
+	  host     : 'us-cdbr-sl-dfw-01.cleardb.net',
+	  user     : 'b7f665afdc7585',
+	  password : '10e6779c',
+	  database : 'ibmx_1c813c825213c27'
 	});
 
 	connection.connect(function(err){

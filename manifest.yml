@@ -1,7 +1,5 @@
----
 applications:
 - name: dacs2017node
   command: node ./bin/www
   services:
-    
-... the rest of your settings ...
+  	
